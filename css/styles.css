@@ -37,7 +37,7 @@ header nav {
 
 
 .menu-icon {
-    background-image: url(https://cdn-icons-png.flaticon.com/512/162/162740.png);
+    background-image: url("https://cdn-icons-png.flaticon.com/512/162/162740.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
